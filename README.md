@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi there 👋 I'm Koshiro Okada.
+
+## I'm interested in ...
+
+
+### [Frontend]
+
+- React
+- Next.js
+- Vue
+- Svelte
+
+### [Backend]
+
+- Node.js(TypeScript)
+- PHP
+- Python
+
+### [Infrastructure]
+
+- Ansible
+- Terraform
 
 <!--
 **koshiro-okada/koshiro-okada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
